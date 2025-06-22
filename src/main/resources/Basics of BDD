@@ -1,0 +1,13 @@
+Cucumber[APIs] which implements - BDD[Behavioral driven development]
+	Was started by Ruby first, then selenium java started using it
+
+Describe behaviour of the software in plain text
+Go to the any website --> facebook.com
+Enter UN & PW
+Click on Sigin 
+Validate Login successful or not
+
+ 
+feature file:-
+Step definations:-
+POM with pagefactory:- 
